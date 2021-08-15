@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC');
+@import url('https://fonts.googleapis.com/css?family=Vollkorn+SC');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+.navigation li {
+    display: inline; /*Отображать как строчный элемент*/
+    margin-right: 55px; /*Отступ слева*/
+    padding: 43px; /*Поля вокруг текста*/
+    font-family: 'Play';
+}
+
+.menu{
+    background: black;
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+.navigation a:hover{
+    text-decoration: overline;
+}
+
+.navigation a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#tek{
+    text-decoration: overline;
+}
+
+.masters {
+    margin: auto;
+    font-family: 'Alegreya Sans SC';
+    font-size: 35px;
+    text-align: center;
+}
+
+.aka {
+    font-size: 25px;
+    font-family: 'Work Sans';
+}
+
+.title{
+    font-family: 'Vollkorn SC';
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    font-size: 45px;
+}
+
+.footer{
+    background: black;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    margin-top: 30px;
+    font-size: 16px;
+    font-family: 'Calibri';
+    color: #FFFFFF;
+}
+
+.tabl{
+    font-family: 'Raleway';
+    font-size: 36px;
+    margin: auto;
+}
+
+.footerph{
+    height: 70px;
+    padding-bottom: 10px;
+}

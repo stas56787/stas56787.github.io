@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC');
+@import url('https://fonts.googleapis.com/css?family=Vollkorn+SC');
+
+.navigation li {
+	display: inline; /*Отображать как строчный элемент*/
+	margin-right: 55px; /*Отступ слева*/
+	padding: 43px; /*Поля вокруг текста*/
+	font-family: 'Play';
+}
+
+.menu{
+	background: black;
+	text-align: center;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	font-size: 20px;
+	color: #FFFFFF;
+	margin-bottom: 50px;
+}
+
+.navigation a:hover{
+	text-decoration: overline;
+}
+
+.navigation a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#tek{
+	text-decoration: overline;
+}
+
+.footer{
+	background: black;
+	padding-top: 10px;
+	padding-bottom: 60px;
+	margin-top: 30px;
+	font-size: 16px;
+	font-family: 'Calibri';
+	color: #FFFFFF;
+}
+
+.tabl{
+	font-family: 'Raleway';
+	font-size: 36px;
+	margin: auto;
+}
+
+.footerph{
+	height: 70px;
+	padding-bottom: 10px;
+}
+
+.since{
+	font-family: 'Vollkorn SC';
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-size: 48px;
+}
+
+.desc{
+	font-family: 'Alegreya Sans SC';
+	font-size: 35px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+.image{
+	height: 500px;
+}
+
+.arts {
+	color: white;
+	font-family: 'Vollkorn SC';
+	font-size: 35px;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 90px;
+	background-color: black;
+}
+
+.photos{
+	margin-bottom: 90px;
+}
